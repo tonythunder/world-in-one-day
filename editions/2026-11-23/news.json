@@ -1,0 +1,243 @@
+{
+  "utc_date": "2026-11-23",
+  "art": "nov23",
+  "sources": [
+    [
+      "Nvidia",
+      "Board decision on November 23",
+      "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    ],
+    [
+      "Reuters",
+      "November 23 US close, Nvidia +31.5%",
+      "https://www.aol.co.uk/articles/wall-street-futures-rebound-rough-075444000.html"
+    ],
+    [
+      "Associated Press",
+      "November 23 US close, Nasdaq Composite +6.5%",
+      "https://apnews.com/article/fcdf1bad36b4f81c90cbb0f33a2c5704"
+    ],
+    [
+      "European Commission",
+      "November 23 presentation of the proposed 22nd package",
+      "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/statement_26_2563/STATEMENT_26_2563_EN.pdf"
+    ],
+    [
+      "UK Maritime Trade Operations",
+      "Warning 219-26, published November 24; incident November 23 at 20:25 UTC",
+      "https://www.ukmto.org/-/media/ukmto/products/20261124-ukmto_warning_219-26.pdf?rev=8d57662b37b844e3a680cf462d2cdac1"
+    ]
+  ],
+  "chart": {
+    "changes": [
+      31.5,
+      6.5
+    ],
+    "max": 32
+  },
+  "lines": [
+    [
+      "section",
+      44,
+      22,
+      "BF5036",
+      "WORLD NEWS"
+    ],
+    [
+      "mast",
+      40,
+      29,
+      "132E32",
+      "The world in focus"
+    ],
+    [
+      "date",
+      657,
+      54,
+      "132E32",
+      "Monday 23 November 2026"
+    ],
+    [
+      "small",
+      657,
+      89,
+      "486062",
+      "GLOBAL EDITION  /  UTC"
+    ],
+    [
+      "section",
+      61,
+      161,
+      "CDF090",
+      "UNITED STATES   /   TECHNOLOGY"
+    ],
+    [
+      "lead",
+      57,
+      191,
+      "F6F1E5",
+      "Nvidia brings"
+    ],
+    [
+      "lead",
+      57,
+      256,
+      "F6F1E5",
+      "Huang back as CEO"
+    ],
+    [
+      "copy",
+      61,
+      349,
+      "F6F1E5",
+      "The board voted unanimously to reinstate"
+    ],
+    [
+      "copy",
+      61,
+      379,
+      "F6F1E5",
+      "its co-founder. U.S. tech stocks rallied."
+    ],
+    [
+      "small",
+      61,
+      446,
+      "CDF090",
+      "U.S. STOCKS  /  CHANGE AT MONDAY’S CLOSE"
+    ],
+    [
+      "chart",
+      61,
+      484,
+      "F6F1E5",
+      "Nvidia"
+    ],
+    [
+      "chart",
+      61,
+      515,
+      "F6F1E5",
+      "Nasdaq Composite"
+    ],
+    [
+      "chart",
+      450,
+      482,
+      "F6F1E5",
+      "+31.5%"
+    ],
+    [
+      "chart",
+      450,
+      513,
+      "F6F1E5",
+      "+6.5%"
+    ],
+    [
+      "caption",
+      621,
+      540,
+      "F6F1E5",
+      "Jensen Huang  /  Archive photograph, 2023"
+    ],
+    [
+      "section",
+      44,
+      596,
+      "BF5036",
+      "EUROPE   /   RUSSIA SANCTIONS"
+    ],
+    [
+      "section",
+      533,
+      596,
+      "BF5036",
+      "MIDDLE EAST   /   SHIPPING"
+    ],
+    [
+      "subhead",
+      42,
+      760,
+      "132E32",
+      "EU proposes new"
+    ],
+    [
+      "subhead",
+      42,
+      802,
+      "132E32",
+      "sanctions on Russia"
+    ],
+    [
+      "body",
+      45,
+      869,
+      "132E32",
+      "The European Commission’s 22nd package"
+    ],
+    [
+      "body",
+      45,
+      897,
+      "132E32",
+      "would bar transactions with about 60"
+    ],
+    [
+      "body",
+      45,
+      925,
+      "132E32",
+      "Russian banks and target crypto platforms."
+    ],
+    [
+      "subhead",
+      531,
+      760,
+      "132E32",
+      "Three ships struck in"
+    ],
+    [
+      "subhead",
+      531,
+      802,
+      "132E32",
+      "the Strait of Hormuz"
+    ],
+    [
+      "body",
+      533,
+      869,
+      "132E32",
+      "The ships continued east after being hit"
+    ],
+    [
+      "body",
+      533,
+      897,
+      "132E32",
+      "by unidentified projectiles. All crew were"
+    ],
+    [
+      "body",
+      533,
+      925,
+      "132E32",
+      "accounted for, UK maritime officials said."
+    ],
+    [
+      "fine",
+      44,
+      983,
+      "486062",
+      "Sources  /  Nvidia, Reuters, AP, European Commission, UK Maritime Trade Operations"
+    ],
+    [
+      "fine",
+      798,
+      983,
+      "486062",
+      "Portrait  /  Taiwan Presidential Office"
+    ]
+  ]
+}
